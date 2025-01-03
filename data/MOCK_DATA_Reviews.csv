@@ -1,0 +1,201 @@
+ReviewID,ServiceID,VenueID,UserID,Rating,Comment,ReviewDate
+1,,505.0,209,5,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque,9/11/2024
+2,,738.0,880,3,quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer,9/11/2024
+3,,801.0,5,0,vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum,9/10/2024
+4,,43.0,504,0,varius integer ac leo pellentesque ultrices mattis odio donec vitae,9/11/2024
+5,,906.0,22,1,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta,9/11/2024
+6,,681.0,893,1,leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis,9/10/2024
+7,,875.0,65,0,posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante,9/11/2024
+8,,860.0,185,3,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius,9/11/2024
+9,124.0,,684,0,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien,9/11/2024
+10,164.0,,698,3,morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,9/11/2024
+11,53.0,,383,3,rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit,9/11/2024
+12,,743.0,896,5,ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo,9/10/2024
+13,34.0,,651,5,aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis,9/11/2024
+14,,109.0,263,5,eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus,9/11/2024
+15,92.0,,445,5,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea,9/11/2024
+16,10.0,,827,0,at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent,9/10/2024
+17,,955.0,342,4,cum sociis natoque penatibus et magnis dis parturient montes nascetur,9/10/2024
+18,191.0,,689,2,pede ac diam cras pellentesque volutpat dui maecenas tristique est,9/11/2024
+19,,431.0,755,5,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim,9/10/2024
+20,176.0,,396,4,morbi vel lectus in quam fringilla rhoncus mauris enim leo,9/11/2024
+21,189.0,,298,0,id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae,9/11/2024
+22,12.0,,17,4,luctus ultricies eu nibh quisque id justo sit amet sapien dignissim,9/10/2024
+23,,120.0,700,3,vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi,9/11/2024
+24,183.0,,114,0,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam,9/10/2024
+25,,734.0,16,1,ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in,9/11/2024
+26,,807.0,851,2,mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus,9/10/2024
+27,96.0,,680,2,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque,9/10/2024
+28,111.0,,684,4,quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu,9/11/2024
+29,,293.0,737,3,nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede,9/11/2024
+30,123.0,,76,3,in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,9/11/2024
+31,,26.0,125,2,primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,9/10/2024
+32,44.0,,733,0,nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum,9/10/2024
+33,16.0,,265,3,nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a,9/11/2024
+34,165.0,,48,1,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus,9/11/2024
+35,134.0,,719,0,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus,9/10/2024
+36,72.0,,105,0,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non,9/11/2024
+37,,629.0,205,2,ipsum primis in faucibus orci luctus et ultrices posuere cubilia,9/11/2024
+38,,387.0,649,4,turpis a pede posuere nonummy integer non velit donec diam neque,9/11/2024
+39,,145.0,688,5,luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien,9/10/2024
+40,179.0,,47,0,feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce,9/11/2024
+41,,44.0,238,3,mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper,9/11/2024
+42,192.0,,656,1,turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas,9/11/2024
+43,,125.0,384,1,mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas,9/10/2024
+44,,606.0,476,3,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan,9/10/2024
+45,,343.0,204,4,posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,9/11/2024
+46,,807.0,471,1,mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus,9/10/2024
+47,109.0,,143,5,platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat,9/11/2024
+48,160.0,,553,5,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia,9/11/2024
+49,137.0,,228,5,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor,9/10/2024
+50,135.0,,162,2,in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam,9/10/2024
+51,,193.0,105,1,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,9/11/2024
+52,,418.0,258,5,congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a,9/10/2024
+53,117.0,,253,5,hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat,9/10/2024
+54,,636.0,303,0,et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis,9/10/2024
+55,,381.0,987,4,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar,9/11/2024
+56,90.0,,358,1,diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,9/11/2024
+57,,877.0,199,0,vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla,9/10/2024
+58,145.0,,318,0,ut nulla sed accumsan felis ut at dolor quis odio consequat varius integer ac,9/10/2024
+59,,381.0,966,4,enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus,9/10/2024
+60,,398.0,840,1,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,9/10/2024
+61,,914.0,991,4,amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui,9/11/2024
+62,54.0,,23,0,ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo,9/10/2024
+63,,177.0,736,1,vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla,9/11/2024
+64,46.0,,138,0,dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in,9/10/2024
+65,47.0,,320,0,nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam,9/10/2024
+66,,819.0,68,2,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis,9/11/2024
+67,165.0,,589,0,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum,9/10/2024
+68,,343.0,353,0,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy,9/10/2024
+69,,185.0,952,4,ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla,9/11/2024
+70,,206.0,382,2,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt,9/10/2024
+71,,1.0,183,2,semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis,9/11/2024
+72,,519.0,166,0,amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo,9/11/2024
+73,,333.0,394,2,in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio,9/11/2024
+74,,512.0,612,4,nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque,9/10/2024
+75,164.0,,904,5,cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit,9/11/2024
+76,,622.0,895,4,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh,9/11/2024
+77,191.0,,574,1,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus,9/11/2024
+78,141.0,,572,4,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae,9/10/2024
+79,189.0,,179,3,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,9/11/2024
+80,,715.0,459,3,nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,9/11/2024
+81,78.0,,873,3,at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis,9/10/2024
+82,100.0,,66,1,integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl,9/11/2024
+83,128.0,,755,3,purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum,9/10/2024
+84,,493.0,11,1,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam,9/10/2024
+85,,71.0,637,5,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus,9/10/2024
+86,50.0,,798,2,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non,9/11/2024
+87,,908.0,688,0,venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis,9/11/2024
+88,,325.0,872,4,ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque,9/11/2024
+89,,352.0,982,2,phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus,9/10/2024
+90,68.0,,28,2,nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet,9/10/2024
+91,,927.0,319,0,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec,9/10/2024
+92,,718.0,599,0,vel accumsan tellus nisi eu orci mauris lacinia sapien quis,9/10/2024
+93,74.0,,832,1,sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam,9/10/2024
+94,117.0,,917,1,eu massa donec dapibus duis at velit eu est congue elementum,9/10/2024
+95,,646.0,138,2,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est,9/11/2024
+96,,912.0,784,1,blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in,9/10/2024
+97,,59.0,883,4,nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet,9/10/2024
+98,,122.0,449,0,in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat,9/11/2024
+99,,473.0,72,4,faucibus orci luctus et ultrices posuere cubilia curae duis faucibus,9/11/2024
+100,,433.0,117,3,nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis,9/10/2024
+101,97.0,,715,4,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec,9/10/2024
+102,,745.0,508,4,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse,9/11/2024
+103,,709.0,216,0,etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem,9/10/2024
+104,83.0,,137,0,convallis morbi odio odio elementum eu interdum eu tincidunt in leo,9/10/2024
+105,125.0,,163,2,consequat metus sapien ut nunc vestibulum ante ipsum primis in,9/11/2024
+106,100.0,,815,3,placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id,9/10/2024
+107,40.0,,629,0,ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in,9/11/2024
+108,86.0,,968,4,luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium,9/11/2024
+109,108.0,,532,4,turpis enim blandit mi in porttitor pede justo eu massa,9/10/2024
+110,,126.0,866,5,arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium,9/10/2024
+111,33.0,,229,4,nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus,9/11/2024
+112,62.0,,222,0,nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,9/11/2024
+113,85.0,,712,3,condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,9/10/2024
+114,,485.0,486,1,rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat,9/11/2024
+115,199.0,,683,0,aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis,9/11/2024
+116,188.0,,713,2,massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo,9/10/2024
+117,,820.0,471,2,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla,9/10/2024
+118,,836.0,39,0,est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum,9/10/2024
+119,,431.0,930,2,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas,9/10/2024
+120,,409.0,831,5,luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,9/10/2024
+121,72.0,,59,0,aliquet massa id lobortis convallis tortor risus dapibus augue vel,9/10/2024
+122,191.0,,453,3,rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,9/10/2024
+123,197.0,,62,5,aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet,9/11/2024
+124,,309.0,684,2,magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,9/10/2024
+125,196.0,,138,2,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer,9/11/2024
+126,,98.0,588,1,semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero,9/11/2024
+127,,872.0,325,0,potenti in eleifend quam a odio in hac habitasse platea,9/10/2024
+128,170.0,,412,0,platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum,9/11/2024
+129,1.0,,37,3,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non,9/11/2024
+130,,583.0,997,3,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel,9/10/2024
+131,,741.0,505,4,pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula,9/10/2024
+132,122.0,,276,0,leo odio porttitor id consequat in consequat ut nulla sed accumsan,9/10/2024
+133,,697.0,596,3,justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis,9/11/2024
+134,68.0,,599,4,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis,9/10/2024
+135,32.0,,310,1,pede ullamcorper augue a suscipit nulla elit ac nulla sed,9/10/2024
+136,180.0,,467,1,etiam pretium iaculis justo in hac habitasse platea dictumst etiam,9/10/2024
+137,200.0,,720,5,vel nisl duis ac nibh fusce lacus purus aliquet at feugiat,9/11/2024
+138,,238.0,371,1,morbi quis tortor id nulla ultrices aliquet maecenas leo odio,9/11/2024
+139,46.0,,428,0,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar,9/11/2024
+140,,827.0,342,2,magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,9/10/2024
+141,,632.0,842,3,sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse,9/10/2024
+142,67.0,,211,0,nulla facilisi cras non velit nec nisi vulputate nonummy maecenas,9/11/2024
+143,,677.0,751,0,interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien,9/11/2024
+144,,316.0,499,1,cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,9/11/2024
+145,175.0,,172,0,potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis,9/11/2024
+146,,657.0,329,1,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit,9/11/2024
+147,,709.0,99,1,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,9/10/2024
+148,148.0,,767,2,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum,9/11/2024
+149,,779.0,86,5,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit,9/10/2024
+150,,534.0,794,1,orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor,9/11/2024
+151,,818.0,413,2,lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet,9/11/2024
+152,64.0,,688,3,habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque,9/11/2024
+153,,526.0,361,2,dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum,9/11/2024
+154,,763.0,462,3,sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam,9/10/2024
+155,,504.0,141,4,metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,9/10/2024
+156,106.0,,436,4,varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae,9/10/2024
+157,97.0,,410,5,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam,9/10/2024
+158,86.0,,279,5,vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget,9/10/2024
+159,43.0,,343,4,ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam,9/11/2024
+160,25.0,,732,2,congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis,9/11/2024
+161,11.0,,929,1,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque,9/11/2024
+162,193.0,,468,1,ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id,9/11/2024
+163,30.0,,5,1,in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum,9/11/2024
+164,79.0,,661,5,interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan,9/10/2024
+165,,327.0,750,4,in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque,9/10/2024
+166,95.0,,118,1,donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac,9/11/2024
+167,,60.0,102,5,sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc,9/10/2024
+168,117.0,,368,1,imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam,9/11/2024
+169,157.0,,520,5,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla,9/11/2024
+170,,364.0,242,1,purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique,9/11/2024
+171,,752.0,547,0,morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet,9/11/2024
+172,30.0,,269,4,nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id,9/11/2024
+173,,501.0,0,3,dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus,9/10/2024
+174,177.0,,794,0,sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus,9/10/2024
+175,154.0,,338,0,erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non,9/10/2024
+176,24.0,,298,4,commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit,9/11/2024
+177,,669.0,623,1,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum,9/10/2024
+178,,265.0,702,3,hac habitasse platea dictumst maecenas ut massa quis augue luctus,9/11/2024
+179,92.0,,810,0,dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus,9/10/2024
+180,,104.0,824,0,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras,9/11/2024
+181,150.0,,915,4,pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum,9/11/2024
+182,31.0,,132,3,porttitor lorem id ligula suspendisse ornare consequat lectus in est,9/11/2024
+183,56.0,,528,3,tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero,9/10/2024
+184,,249.0,781,0,a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,9/11/2024
+185,,488.0,23,0,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris,9/10/2024
+186,,671.0,217,5,in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut,9/10/2024
+187,,867.0,401,0,turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum,9/11/2024
+188,34.0,,854,2,sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at,9/11/2024
+189,50.0,,293,5,lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at,9/10/2024
+190,,597.0,436,4,amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo,9/10/2024
+191,85.0,,843,2,nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur,9/11/2024
+192,20.0,,80,4,erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales,9/10/2024
+193,90.0,,360,4,in est risus auctor sed tristique in tempus sit amet sem fusce consequat,9/11/2024
+194,141.0,,695,1,sapien a libero nam dui proin leo odio porttitor id consequat in,9/10/2024
+195,,283.0,297,5,pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis,9/10/2024
+196,,474.0,756,0,ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl,9/11/2024
+197,182.0,,639,4,in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus,9/11/2024
+198,,52.0,745,1,donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies,9/11/2024
+199,,151.0,718,1,ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor,9/10/2024
+200,,43.0,255,2,faucibus orci luctus et ultrices posuere cubilia curae mauris viverra,9/10/2024
