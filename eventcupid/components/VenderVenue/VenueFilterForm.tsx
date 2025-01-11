@@ -20,7 +20,9 @@ interface VenueResponse {
 
 // Fetch function to get venue details based on venueId
 const fetchVenueById = async (venueId: number): Promise<VenueResponse> => {
-  const response = await fetch(`http://127.0.0.1:5000/venues/${venueId}`);
+  const response = await fetch(
+    `${process.env.NEXT_PUBLIC_API_BASE_URL}/venues/${venueId}`
+  );
   if (!response.ok) {
     throw new Error("Failed to fetch venue details");
   }
@@ -47,18 +49,19 @@ function VenueSearch() {
       const data = await fetchVenueById(venueId);
       setVenueDetails(data.venue); // Now 'data.venue' is correctly typed
     } catch (err: any) {
-      setError(err.message || "Something went wrong while fetching venue details.");
+      setError(
+        err.message || "Something went wrong while fetching venue details."
+      );
     }
   };
 
   return (
     <div className="bg-gray-900 text-white py-6 px-6 flex flex-col items-center">
       <div className="w-full max-w-2xl bg-gray-800 p-8 rounded-lg shadow-xl">
-        <h2 className="text-3xl font-bold text-center text-white mb-6">Search for a Venue</h2>
-        <form
-          className="space-y-6"
-          onSubmit={handleSearch}
-        >
+        <h2 className="text-3xl font-bold text-center text-white mb-6">
+          Search for a Venue
+        </h2>
+        <form className="space-y-6" onSubmit={handleSearch}>
           {/* Venue ID Input */}
           <div>
             <Input
@@ -88,10 +91,22 @@ function VenueSearch() {
         {venueDetails && (
           <div className="mt-8 p-6 bg-gray-700 rounded-md shadow-md">
             <h3 className="text-xl font-bold text-white mb-4">Venue Details</h3>
-            <p><strong className="text-indigo-400">Venue Name:</strong> {venueDetails.venue_name}</p>
-            <p><strong className="text-indigo-400">Manager ID:</strong> {venueDetails.manager_id}</p>
-            <p><strong className="text-indigo-400">Address:</strong> {venueDetails.address}</p>
-            <p><strong className="text-indigo-400">Max Capacity:</strong> {venueDetails.max_capacity}</p>
+            <p>
+              <strong className="text-indigo-400">Venue Name:</strong>{" "}
+              {venueDetails.venue_name}
+            </p>
+            <p>
+              <strong className="text-indigo-400">Manager ID:</strong>{" "}
+              {venueDetails.manager_id}
+            </p>
+            <p>
+              <strong className="text-indigo-400">Address:</strong>{" "}
+              {venueDetails.address}
+            </p>
+            <p>
+              <strong className="text-indigo-400">Max Capacity:</strong>{" "}
+              {venueDetails.max_capacity}
+            </p>
           </div>
         )}
       </div>

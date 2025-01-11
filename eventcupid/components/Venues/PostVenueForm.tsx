@@ -34,7 +34,13 @@ function PostVenueForm({ onVenueAdded }: PostVenueFormProps) {
     resolver: zodResolver(venueSchema),
   });
 
-  const { register, handleSubmit, reset, setValue, formState: { errors } } = methods;
+  const {
+    register,
+    handleSubmit,
+    reset,
+    setValue,
+    formState: { errors },
+  } = methods;
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -52,18 +58,21 @@ function PostVenueForm({ onVenueAdded }: PostVenueFormProps) {
     console.log("Form Data Submitted:", data);
 
     try {
-      const response = await fetch("http://127.0.0.1:5000/venues/add", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          manager_id: userId, // Use the managerId from the form data
-          name: data.venueName,
-          address: data.address,
-          max_capacity: data.maxCapacity,
-        }),
-      });
+      const response = await fetch(
+        `${process.env.NEXT_PUBLIC_API_BASE_URL}/venues/add`,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            manager_id: userId, // Use the managerId from the form data
+            name: data.venueName,
+            address: data.address,
+            max_capacity: data.maxCapacity,
+          }),
+        }
+      );
 
       if (response.ok) {
         setStatusMessage("Venue added successfully!");

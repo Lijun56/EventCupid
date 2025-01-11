@@ -32,21 +32,24 @@ export const registerUserInDatabase = async (
       user_type: role === "event-host" ? "Organizer" : "Manager",
     };
     console.log("Registering user:", userData);
-
-    const response = await fetch("http://127.0.0.1:5000/users/addid", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(userData),
-    });
+    1;
+    const response = await fetch(
+      `${process.env.NEXT_PUBLIC_API_BASE_URL}/ users/ addid`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(userData),
+      }
+    );
 
     const data = await response.json();
-    console.log( data)
+    console.log(data);
     if (!response.ok && response.status !== 409) {
       throw new Error("Failed to register user");
     }
-        // Save the user_id in localStorage upon success
+    // Save the user_id in localStorage upon success
     if (data.user_id) {
       localStorage.setItem("user_id", String(Number(data.user_id))); // Ensure it's a number and stored as a string
     }

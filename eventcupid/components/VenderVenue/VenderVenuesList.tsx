@@ -5,7 +5,9 @@ import { useQuery, useQueryClient } from "@tanstack/react-query";
 import { useState } from "react";
 
 const fetchVenues = async (): Promise<Venue[]> => {
-  const response = await fetch(`http://127.0.0.1:5000/venues`);
+  const response = await fetch(
+    `${process.env.NEXT_PUBLIC_API_BASE_URL}/venues`
+  );
   if (!response.ok) {
     throw new Error("Failed to fetch venues");
   }
@@ -13,7 +15,9 @@ const fetchVenues = async (): Promise<Venue[]> => {
 };
 
 const fetchHotVenues = async (): Promise<Venue[]> => {
-  const response = await fetch(`http://127.0.0.1:5000/venues/hot`);
+  const response = await fetch(
+    `${process.env.NEXT_PUBLIC_API_BASE_URL}/venues/hot`
+  );
   if (!response.ok) {
     throw new Error("Failed to fetch hot venues");
   }
@@ -63,7 +67,12 @@ function VVlist() {
   }
 
   if (isError) {
-    return <p>Failed to load {activeTab === 0 ? "hot venues" : "venues"}: {error?.message}. Please try again later.</p>;
+    return (
+      <p>
+        Failed to load {activeTab === 0 ? "hot venues" : "venues"}:{" "}
+        {error?.message}. Please try again later.
+      </p>
+    );
   }
 
   if (!data || data.length === 0) {
@@ -76,7 +85,11 @@ function VVlist() {
       <div className="flex justify-center mb-4">
         <div className="relative w-1/2 flex items-center">
           <button
-            className={`flex-1 py-2 ${activeTab === 0 ? "bg-blue-500 text-white" : "bg-gray-300 text-black"} rounded-l-md`}
+            className={`flex-1 py-2 ${
+              activeTab === 0
+                ? "bg-blue-500 text-white"
+                : "bg-gray-300 text-black"
+            } rounded-l-md`}
             onClick={() => {
               setActiveTab(0);
             }}
@@ -84,7 +97,11 @@ function VVlist() {
             Hot Venues
           </button>
           <button
-            className={`flex-1 py-2 ${activeTab === 1 ? "bg-blue-500 text-white" : "bg-gray-300 text-black"} rounded-md`}
+            className={`flex-1 py-2 ${
+              activeTab === 1
+                ? "bg-blue-500 text-white"
+                : "bg-gray-300 text-black"
+            } rounded-md`}
             onClick={() => {
               setActiveTab(1);
             }}
